@@ -1,0 +1,21 @@
+{
+  "name": "Cashapp",
+  "short_name": "Cashapp",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0070ba",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "sq",
+      "sizes": "Cash_App-Logo.wine.png",
+      "type": "image/png"
+    },
+    {
+      "src": "Cash_App-Logo.wine.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
